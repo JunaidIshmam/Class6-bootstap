@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.head{
+    min-height: 120px;
+    background-color: #9BC2F9;
+    margin-top: 30px;
+    
+}
+
+.common-header {
+    min-height: 70px;
+    background-color: #CCDFFD;
+
+    margin: 25px 10px;
+}
+
+
+.hero {
+    min-height: 200px;
+    background-color: #9BC2F9;
+    margin-top: 30px;
+    
+}
+
+.hero-content {
+    min-height: 150px;
+    background-color: #CCDFFD;
+    margin: 25px 10px;
+    
+}
+
+.ad {
+    min-height: 200px;
+    background-color: #65A7E1;
+    margin-top: 30px;
+    
+}
+
+
+.body-left {
+    min-height: 400px;
+    background-color: #9BC2F9;
+    margin-top: 30px;
+}
+
+.body-content {
+    min-height: 350px;
+    background-color: #CCDFFD;
+    margin: 25px 10px;
+}
+
+.body-right {
+    min-height: 400px;
+    background-color: #9BC2F9;
+    margin-top: 30px;
+}
+
+
+
+.footer {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    min-height: 120px;
+    background-color: #9BC2F9;
+}
